@@ -1,2 +1,3 @@
-# SyntheticDataml5js
+# SyntheticData
+
 Synthetic Data Curve- Fitting
